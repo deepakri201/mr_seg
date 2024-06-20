@@ -10,6 +10,10 @@ Methods:
 3. MRISegmentator-Abdomen: [paper](https://arxiv.org/pdf/2405.05944)
 4. TotalVibeSegmentator: [paper](https://arxiv.org/pdf/2406.00125) and[code](https://github.com/robert-graf/TotalVibeSegmentator) and our [WIP colab notebook](https://github.com/deepakri201/mr_seg/blob/main/TotalVibeSegmentator_on_IDC_data.ipynb)
 
+Notes: 
+- The Colab python environment is 3.10, but MRSegmentator needs python 3.11. We install 3.11 in the notebook and are able to run inference successfully. 
+- We are able to run inference successfully for TotalVibeSegmentator. 
+
 Cosmin Ciausu, Deepa Krishnaswamy, Megha Kalia, Andrey Fedorov
 
 Brigham and Women's Hospital 
