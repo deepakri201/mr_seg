@@ -26,4 +26,10 @@ colorNode = slicer.util.loadColorTable(color_table_filename)
 segPath = "/Users/dk422/Downloads/mri_image_water_seg.nii.gz"
 resultNode = slicer.util.loadSegmentation(segPath, {'colorNodeID': colorNode.GetID()})
 
+### Change to use TotalVibeSegmentator colors ### 
 
+color_table_filename = '/Users/dk422/git/mr_seg/color_table_TotalVibeSegmentator.ctbl'
+colorNode = slicer.util.loadColorTable(color_table_filename)
+
+segPath = "/Users/dk422/Downloads/mri_image_water_vibe_seg.nii.gz"
+resultNode = slicer.util.loadSegmentation(segPath, {'colorNodeID': colorNode.GetID()})

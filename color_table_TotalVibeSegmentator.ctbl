@@ -1,0 +1,34 @@
+0 Background 0 0 0 0
+1 spleen 157 108 162 255
+2 kidney_right 212 126 151 255
+3 kidney_left 212 126 151 255
+4 gallbladder 139 150 98 255
+5 liver 221 130 101 255
+6 stomach 160 139 76 255
+7 pancreas 249 180 111 255
+8 adrenal_gland_right 199 27 27 255
+9 adrenal_gland_left 199 27 27 255
+18 intestine 204 168 143 255
+19 duodenum 255 253 229 255
+23 sacrum 163 140 140 255
+50 hip_left 241 214 145 255
+51 hip_right 241 214 145 255
+52 spinal_cord 117 78 55 255
+53 gluteus_maximus_left 192 104 88 255
+54 gluteus_maximus_right 192 104 88 255
+55 gluteus_medius_left 192 104 88 255
+56 gluteus_medius_right 192 104 88 255
+57 gluteus_minimus_left 192 104 88 255
+58 gluteus_minimus_right 192 104 88 255
+59 autochthon_left 192 104 88 255
+60 autochthon_right 192 104 88 255
+61 iliopsoas_left 192 104 88 255
+62 iliopsoas_right 192 104 88 255
+69 vertebra_body 117 78 55 255
+70 vertebra_posterior_elements 117 78 55 255
+71 spinal_channel 117 78 55 255
+
+
+
+
+
